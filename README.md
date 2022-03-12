@@ -1,4 +1,7 @@
 # Robot_arm
+#Sama Elshorbagy  1190582
+#Mona Mohsen  1190540
+#Ahmed Osama  1190415
 Robotic Arm Modelling:
 Our model consists of a robotic arm that has a shoulder,elbow,fingers,and phalanges.
 We have 4 fingers with each finger consists of 2 phalanges.Each body part is modeled as a cube.
